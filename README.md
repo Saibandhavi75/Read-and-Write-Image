@@ -92,7 +92,6 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 ![output](https://github.com/Saibandhavi75/Read-and-Write-Image/blob/main/b1.JPG?raw=true)
-
 ### ii)Write the image
 
 ![output](https://github.com/Saibandhavi75/Read-and-Write-Image/blob/main/b2.JPG?raw=true)
